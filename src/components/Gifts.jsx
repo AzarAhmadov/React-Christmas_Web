@@ -1,21 +1,21 @@
 import React from 'react';
 
 const Gifts = () => {
-    
+
     const card_data = [
         {
             name: 'Hat',
-            images:'https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg?cs=srgb&dl=pexels-pixabay-268533.jpg&fm=jpg',
+            images: '../../public/images/icon.png',
             txt: 'Inspirational Christmas Greetings Messages for your loved ones – whether you’re sending a small gift to grandma or need something special to write for.'
         },
         {
             name: 'Tree',
-            images:'images/icon2.png',
+            images: '../../public/images/icon2.png',
             txt: 'Inspirational Christmas Greetings Messages for your loved ones – whether you’re sending a small gift to grandma or need something special to write for.'
         },
         {
             name: 'Bell',
-            images:'images/icon3.png',
+            images: '../../public/images/icon3.png',
             txt: 'Inspirational Christmas Greetings Messages for your loved ones – whether you’re sending a small gift to grandma or need something special to write for.'
 
         }
