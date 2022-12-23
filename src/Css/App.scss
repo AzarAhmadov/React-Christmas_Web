@@ -422,7 +422,9 @@ button {
             text-align: center;
 
             img {
-              height: 80px;
+              height: 83px;
+              width: 83px;
+              object-fit: contain;
               padding: 10px;
               background: orange;
               border-radius: 50%;

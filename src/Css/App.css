@@ -354,7 +354,10 @@ button:hover {
   text-align: center;
 }
 .card .card-container .card-row .card-item ul li img {
-  height: 80px;
+  height: 83px;
+  width: 83px;
+  -o-object-fit: contain;
+     object-fit: contain;
   padding: 10px;
   background: orange;
   border-radius: 50%;
