@@ -4,18 +4,18 @@ const About = () => {
 
     const about_data = [
         {
-            images: '../../images/icona.png',
+            images: 'https://www.freelogovectors.net/wp-content/uploads/2012/12/Bell.png',
             topText: 'Beautiful Design ',
             bottomText: 'Contrary to popular belief, Lorem Ipsum is not simply random text'
         },
         {
-            images: '../../images/icona2.png',
+            images: 'https://cdn-icons-png.flaticon.com/512/3695/3695375.png',
             topText: 'Beautiful Design ',
             bottomText: 'Contrary to popular belief, Lorem Ipsum is not simply random text'
         },
     ]
 
-    return (    
+    return (
         <section className='about' id='about'>
             <div className="about-container">
                 <div className="about-row">

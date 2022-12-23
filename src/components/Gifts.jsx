@@ -5,17 +5,17 @@ const Gifts = () => {
     const card_data = [
         {
             name: 'Hat',
-            images: '/images/icon.png',
+            images: 'https://cdn-icons-png.flaticon.com/512/1324/1324728.png',
             txt: 'Inspirational Christmas Greetings Messages for your loved ones – whether you’re sending a small gift to grandma or need something special to write for.'
         },
         {
             name: 'Tree',
-            images: '/public/images/icon2.png',
+            images: 'https://cdn-icons-png.flaticon.com/512/3752/3752547.png',
             txt: 'Inspirational Christmas Greetings Messages for your loved ones – whether you’re sending a small gift to grandma or need something special to write for.'
         },
         {
             name: 'Bell',
-            images: '../../public/images/icon3.png',
+            images: 'https://cdn3.iconfinder.com/data/icons/xmas-flat-set-version-three/512/Candy_Cane-512.png',
             txt: 'Inspirational Christmas Greetings Messages for your loved ones – whether you’re sending a small gift to grandma or need something special to write for.'
 
         }
