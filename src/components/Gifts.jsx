@@ -5,12 +5,12 @@ const Gifts = () => {
     const card_data = [
         {
             name: 'Hat',
-            images: '../../public/images/icon.png',
+            images: './images/icon.png',
             txt: 'Inspirational Christmas Greetings Messages for your loved ones – whether you’re sending a small gift to grandma or need something special to write for.'
         },
         {
             name: 'Tree',
-            images: '../../public/images/icon2.png',
+            images: '/public/images/icon2.png',
             txt: 'Inspirational Christmas Greetings Messages for your loved ones – whether you’re sending a small gift to grandma or need something special to write for.'
         },
         {
